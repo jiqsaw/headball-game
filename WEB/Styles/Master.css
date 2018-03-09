@@ -1,0 +1,5 @@
+html { height: 100%; overflow: hidden; }
+body { height: 100%; margin: 0; padding: 0; }
+#dvFlashContent { height: 100%; }
+
+body { background: #000; color: #FFF; }

@@ -1,0 +1,62 @@
+﻿[	
+	[
+		["U\u011fur S\u00f6nmezo\u011flu"]
+	],
+	[
+		[""],
+		["Yal\u00e7\u0131n Yaman \n Ferhat Arslan \n Yusuf Tekin"],
+		["G\u00fcrhan G\u00fcrb\u00fcz \n Oguzhan G\u00f6kdemir \n Harun Peynir"],
+		["G\u00fcrhan Demir \n Burak Gedik \n Ahmet G\u00fcler"],
+		["G\u00f6ksel Ate\u015f \n Serdar Sahin \n Cihat Cak\u0131r"]
+	],
+	[
+		[""],
+		["Ali Keles \n Ali Ozer \n Kas\u0131m Akta\u015f"],
+		["Ismet Erban \n Umut Aslan \n Rag\u0131p Peynir"],
+		["Eren Akg\u00fcn \n Ibrahim Arslan \n Og\u00fcn Erkal"],
+		["Serkan Ayg\u00fcn \n Mehmet Nedim Inci \n Ayhan Kahraman"]
+	],
+	[
+		[""],
+		["Serkan Bilen \n Serkan Y\u0131lmaz"],
+		["Irfan G\u00f6ren \n Yal\u00e7\u0131n Turan \n G\u00f6khan Karakaya"],
+		["Mehmet U\u00e7ar \n Sabri Sen \n Sedat Emre Bayram"],
+		["Seyit U\u00e7ar \n Shota J\u0131k\u0131a \n Evin Akg\u00fc\u00e7"]
+	],
+	[
+		[""],
+		["Do\u011fukan Sar\u0131su \n Serhat Ari \n B\u00fclent Altu\u011f"],
+		["Osman Iseri \n Volkan Berber \n Erhan Bi\u00e7er"],
+		["Sezai Co\u015fkun \n Ertan Apaydin \n Erkan Kavakl\u0131"],
+		["Serhat Y\u0131ld\u0131z \n Vedat Sahin \n G\u00f6khan Turan"]
+	],
+	[
+		[""],
+		["Muhammet Cakmak \n Ali Apaydin \n Ahmet Bak\u0131rc\u0131"],
+		["Onur Bostan \n Abdullah B\u00f6l\u00fckba\u015f\u0131 \n M\u00fccahit Hasan"],
+		["Artun Topac \n Mustafa Cakmak \n Ziya Yal\u00e7\u0131n"],
+		["B\u00fcnyamin U\u011furlu \n Do\u011fukan Ozt\u00fcrkan \n Ca\u011fda\u015f Engiz"]
+	],
+	[
+		[""],
+		["Ca\u011flar Camdeviren \n Ca\u011fatay Alan \n Turgay Peynir"],
+		["G\u00fcrhan Mira\u00e7 Saka \n Ay\u015fe Hac\u0131recepo\u011flu \n Enes G\u00fcne\u015f"],
+		["Ozg\u00fcr Aslan \n Serhat Ba\u015f \n U\u011fur Oge"],
+		["Erdi Ya\u015fl\u0131 \n Berk K\u00fclek\u00e7i \n Abdullah Sekercio\u011flu"]
+	],
+	[
+		[""],
+		["Hazar Ku\u015fcu \n Ya\u011f\u0131zcan Mutlu \n M\u00fccahit Aras"],
+		["Bet\u00fcl Mercan \n Muhammed Tay\u0131r \n Ali Y\u0131lmaz"],
+		["Can Sen \n Mehmet Duran \n Emrah Korkmazer"],
+		["Erkan Bayrak\u00e7\u0131 \n Ali Erhan G\u00fclsel \n Yusuf Karaka\u015f"]
+	],
+	[
+		[""],
+		["Mehmet Imer \n Semih Faal \n Ahmet Ha\u015fim Garbeto\u011flu"],
+		["Caner Se\u00e7en \n Seher Cevik Aras \n Kerem Turgut"],
+		["Gencer Celep \n Irem Harmanc\u0131 \n Mustafa Karaduman"],
+		["Emrehan Ulurak \n Ersin Yarar \n Emre Yenero\u011flu"]
+	]
+
+]
